@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  border: solid 5px;
+  background: linear-gradient(90deg, white, lightblue, skyblue);
+  width: 21cm;
+  height: 29.7cm;
+  margin: 1.5cm auto;
+}
+h1 {
+  font-size: 30px;
+
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.contact {
+  display: inline-block;
+  border: solid;
+  border-radius: 10px;
+  width: 200px;
+  position: absolute;
+  top: 200px;
+  left: 900px;
+  background-color: aqua;
+}
+.altele {
+  display: inline-block;
+  border: solid;
+  border-radius: 10px;
+  position: absolute;
+  right: 900px;
+  background-color: aqua;
+}
+img {
+  border: solid;
+  border-radius: 10px;
+}
